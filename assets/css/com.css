@@ -252,6 +252,7 @@ tr {
       color: #ffffff; 
       font-family: Swis721 BlkCn BT; 
       font-weight: bold; 
+      font-style: italic;
       text-shadow: #4f4f4f 0px 3px 3px;
       text-decoration: none;
     }
@@ -266,7 +267,7 @@ tr {
       z-index: 1; 
       margin: .2em 0 -.5em; 
       font-size: 15px; 
-      color: #ffffff; 
+      color: #fffb00; 
       font-family: Swis721 BlkCn BT; 
       font-weight: bold; 
       font-style: italic;
