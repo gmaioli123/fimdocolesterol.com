@@ -40,8 +40,12 @@ body {
 }
 
 .btn {
+	position: relative;
+	top: 0px;
+	left: 150px;
 	border-radius: 100px;
-	padding: 1px 5px;
+	width: 60%;
+	padding: 3px 0px;
 	font-size: 40px;
 	background: linear-gradient(to bottom, #fffb05 0%, #9e9c06 100%); 
 	outline: none;
