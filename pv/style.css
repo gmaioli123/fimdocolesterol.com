@@ -42,7 +42,7 @@ body {
 .btn {
 	position: relative;
 	top: 0px;
-	left: 100px;
+	left: 135px;
 	border-radius: 100px;
 	width: 60%;
 	padding: 3px 0px;
@@ -63,4 +63,9 @@ body {
 .black p {
 	font-size: 18px;
 	color: white;
+}
+.my-6 {
+position: relative;
+top: 200px;
+left: 70px;
 }
