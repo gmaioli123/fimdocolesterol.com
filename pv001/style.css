@@ -62,9 +62,7 @@ body {
 	font-size: 18px;
 	color: white;
 }
-.my-6 {
-position: relative;
-top: 80px;
-left: 7px;
-font-size: 10px;
+.text-white{
+	color: white;
+	
 }
